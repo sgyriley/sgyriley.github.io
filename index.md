@@ -1,12 +1,25 @@
-## Welcome to GitHub Pages
+# 심가영 이력서
 
-You can use the [editor on GitHub](https://github.com/sgyriley/sgyriley.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요. 심가영입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 기본사항   ***Personal Information***  
+``` 
+👧  2003.02.21  
+✉️  gayoungshim@ewhain.net  
+```
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 학력사항  ***Eudcation*** 
+```
+이화여자대학교 휴먼기계바이오공학과
+Ewha Womans University, College of Engineering, Mechanical & Biomedical Engineering - 2022.03~
+``` 
+<details><summary>more info</summary>
+<p>
+  
+     ［이화여자대학교 Ewha Womans University］(http://www.ewha.ac.kr/)
+     ［이화여자대학교 휴먼기계바이오공학과 Mechanical & Biomedical Engineering］(http://mbe.ewha.ac.kr/)
+  </p>
+</details>
 
 ```markdown
 Syntax highlighted code block
