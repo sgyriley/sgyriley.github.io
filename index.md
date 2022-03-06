@@ -26,9 +26,10 @@ College of Engineering, Mechanical & Biomedical Engineering - 2022.03~
 </details>
 
 
-## 경력  ***Experience***
-
-
+## 관심사 ***interest***
+```
+* 빅데이터(big data)
+```
 
 
 ```markdown
