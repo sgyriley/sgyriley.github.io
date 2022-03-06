@@ -16,11 +16,13 @@ College of Engineering, Mechanical & Biomedical Engineering - 2022.03~
 
 <details><summary>more info</summary>
 <p>
-  
-     ［이화여자대학교 Ewha Womans University］(http://www.ewha.ac.kr/)
+ 
+     ［이화여자대학교 Ewha Womans University］(http://www.ewha.ac.kr/) 
+ 
      ［이화여자대학교 휴먼기계바이오공학과 Mechanical & Biomedical Engineering］(http://mbe.ewha.ac.kr/)
-  </p>
+   </p>
 </details>
+
 
 ## 경력  ***Experience***
 
